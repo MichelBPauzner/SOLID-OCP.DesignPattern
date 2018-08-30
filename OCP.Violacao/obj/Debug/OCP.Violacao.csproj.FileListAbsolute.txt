@@ -1,0 +1,13 @@
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\OCP.Violacao\obj\Debug\OCP.Violacao.csproj.CoreCompileInputs.cache
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\OCP.Violacao\bin\Debug\OCP.Violacao.exe.config
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\OCP.Violacao\bin\Debug\OCP.Violacao.exe
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\OCP.Violacao\bin\Debug\OCP.Violacao.pdb
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\OCP.Violacao\obj\Debug\OCP.Violacao.exe
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\OCP.Violacao\obj\Debug\OCP.Violacao.pdb
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.OCP.DesignPattern\OCP.Violacao\bin\Debug\OCP.Violacao.exe.config
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.OCP.DesignPattern\OCP.Violacao\bin\Debug\OCP.Violacao.exe
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.OCP.DesignPattern\OCP.Violacao\bin\Debug\OCP.Violacao.pdb
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.OCP.DesignPattern\OCP.Violacao\obj\Debug\OCP.Violacao.csprojAssemblyReference.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.OCP.DesignPattern\OCP.Violacao\obj\Debug\OCP.Violacao.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.OCP.DesignPattern\OCP.Violacao\obj\Debug\OCP.Violacao.exe
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.OCP.DesignPattern\OCP.Violacao\obj\Debug\OCP.Violacao.pdb
